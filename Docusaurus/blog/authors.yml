@@ -21,3 +21,19 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+MasterTapz:
+  name: Muhammad Brian Subekti
+  title: UI/UX master
+  url: https://github.com/MasterTapz
+  image_url: https://github.com/MasterTapz.png
+  socials:
+    github: MasterTapz
+
+davinawuy:
+  name: Alano Davin Mandagi Awuy
+  title: cbkadal aspirant
+  url: https://github.com/davinawuy
+  image_url: https://github.com/davinawuy.png
+  socials:
+    github: davinawuy
